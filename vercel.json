@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/phuc.nguyenthe.56",
+      "permanent": true
+    }
+  ]
+}
